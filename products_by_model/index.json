@@ -1,0 +1,1055 @@
+{
+  "total_models": 131,
+  "total_specs": 2093,
+  "generated": "2026-03-28 16:00:26",
+  "models": {
+    "50pin-row-cable-new": {
+      "file": "50pin-row-cable-new.csv",
+      "spec_count": 1,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/50pin-row-cable-new"
+    },
+    "5v2a-power-adapter": {
+      "file": "5v2a-power-adapter.csv",
+      "spec_count": 3,
+      "categories": [
+        "Питание и кабели"
+      ],
+      "url": "http://onbon.ru/product/power-cables/5v2a-power-adapter"
+    },
+    "676": {
+      "file": "676.csv",
+      "spec_count": 4,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/676"
+    },
+    "brightness-sensor": {
+      "file": "brightness-sensor.csv",
+      "spec_count": 9,
+      "categories": [
+        "Датчики и пульты"
+      ],
+      "url": "http://onbon.ru/product/sensors/brightness-sensor"
+    },
+    "bx-3gprs": {
+      "file": "bx-3gprs.csv",
+      "spec_count": 2,
+      "categories": [
+        "Сетевые модули"
+      ],
+      "url": "http://onbon.ru/product/network-modules/bx-3gprs"
+    },
+    "bx-3gw-cdma": {
+      "file": "bx-3gw-cdma.csv",
+      "spec_count": 2,
+      "categories": [
+        "Сетевые модули"
+      ],
+      "url": "http://onbon.ru/product/network-modules/bx-3gw-cdma"
+    },
+    "bx-5a0wifi": {
+      "file": "bx-5a0wifi.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a0wifi"
+    },
+    "bx-5a1wifi": {
+      "file": "bx-5a1wifi.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a1wifi"
+    },
+    "bx-5a2g": {
+      "file": "bx-5a2g.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a2g"
+    },
+    "bx-5a2rf": {
+      "file": "bx-5a2rf.csv",
+      "spec_count": 21,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a2rf"
+    },
+    "bx-5a2wifi": {
+      "file": "bx-5a2wifi.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a2wifi"
+    },
+    "bx-5a4rf": {
+      "file": "bx-5a4rf.csv",
+      "spec_count": 19,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a4rf"
+    },
+    "bx-5a4wifi": {
+      "file": "bx-5a4wifi.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5a4wifi"
+    },
+    "bx-5alg": {
+      "file": "bx-5alg.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5alg"
+    },
+    "bx-5atg": {
+      "file": "bx-5atg.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5atg"
+    },
+    "bx-5atwifi": {
+      "file": "bx-5atwifi.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5atwifi"
+    },
+    "bx-5e1-eu": {
+      "file": "bx-5e1-eu.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5e1-eu"
+    },
+    "bx-5e1-su": {
+      "file": "bx-5e1-su.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5e1-su"
+    },
+    "bx-5e2-eu": {
+      "file": "bx-5e2-eu.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5e2-eu"
+    },
+    "bx-5e2-su": {
+      "file": "bx-5e2-su.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5e2-su"
+    },
+    "bx-5e3-esu": {
+      "file": "bx-5e3-esu.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5e3-esu"
+    },
+    "bx-5k1serial": {
+      "file": "bx-5k1serial.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5k1serial"
+    },
+    "bx-5k2-serial": {
+      "file": "bx-5k2-serial.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5k2-serial"
+    },
+    "bx-5m1-eu": {
+      "file": "bx-5m1-eu.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5m1-eu"
+    },
+    "bx-5m2-eu": {
+      "file": "bx-5m2-eu.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5m2-eu"
+    },
+    "bx-5m3-eu": {
+      "file": "bx-5m3-eu.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5m3-eu"
+    },
+    "bx-5m4-eu": {
+      "file": "bx-5m4-eu.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5m4-eu"
+    },
+    "bx-5mteu": {
+      "file": "bx-5mteu.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5mteu"
+    },
+    "bx-5q1ue-75a-2": {
+      "file": "bx-5q1ue-75a-2.csv",
+      "spec_count": 20,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-5q1ue-75a-2"
+    },
+    "bx-5qlue-2": {
+      "file": "bx-5qlue-2.csv",
+      "spec_count": 19,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-5qlue-2"
+    },
+    "bx-5qsue": {
+      "file": "bx-5qsue.csv",
+      "spec_count": 16,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-5qsue"
+    },
+    "bx-5u-us": {
+      "file": "bx-5u-us.csv",
+      "spec_count": 15,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u-us"
+    },
+    "bx-5u0": {
+      "file": "bx-5u0.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u0"
+    },
+    "bx-5u1-us": {
+      "file": "bx-5u1-us.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u1-us"
+    },
+    "bx-5u2-us": {
+      "file": "bx-5u2-us.csv",
+      "spec_count": 14,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u2-us"
+    },
+    "bx-5u3-us": {
+      "file": "bx-5u3-us.csv",
+      "spec_count": 16,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u3-us"
+    },
+    "bx-5u4-us": {
+      "file": "bx-5u4-us.csv",
+      "spec_count": 15,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5u4-us"
+    },
+    "bx-5ul-usb": {
+      "file": "bx-5ul-usb.csv",
+      "spec_count": 19,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5ul-usb"
+    },
+    "bx-5ut": {
+      "file": "bx-5ut.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-5x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx5/bx-5ut"
+    },
+    "bx-6e1": {
+      "file": "bx-6e1.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6e1"
+    },
+    "bx-6e2": {
+      "file": "bx-6e2.csv",
+      "spec_count": 21,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6e2"
+    },
+    "bx-6e3": {
+      "file": "bx-6e3.csv",
+      "spec_count": 19,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6e3"
+    },
+    "bx-6m": {
+      "file": "bx-6m.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6m"
+    },
+    "bx-6m0": {
+      "file": "bx-6m0.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6m0"
+    },
+    "bx-6m1": {
+      "file": "bx-6m1.csv",
+      "spec_count": 24,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6m1"
+    },
+    "bx-6m3": {
+      "file": "bx-6m3.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6m3"
+    },
+    "bx-6mt-0812": {
+      "file": "bx-6mt-0812.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6mt-0812"
+    },
+    "bx-6q0-75": {
+      "file": "bx-6q0-75.csv",
+      "spec_count": 22,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q0-75"
+    },
+    "bx-6q1": {
+      "file": "bx-6q1.csv",
+      "spec_count": 24,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q1"
+    },
+    "bx-6q2": {
+      "file": "bx-6q2.csv",
+      "spec_count": 23,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q2"
+    },
+    "bx-6q2l": {
+      "file": "bx-6q2l.csv",
+      "spec_count": 24,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q2l"
+    },
+    "bx-6q3": {
+      "file": "bx-6q3.csv",
+      "spec_count": 26,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q3"
+    },
+    "bx-6q3l": {
+      "file": "bx-6q3l.csv",
+      "spec_count": 22,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6q3l"
+    },
+    "bx-6ql-75": {
+      "file": "bx-6ql-75.csv",
+      "spec_count": 24,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-6ql-75"
+    },
+    "bx-6u": {
+      "file": "bx-6u.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6u"
+    },
+    "bx-6u0": {
+      "file": "bx-6u0.csv",
+      "spec_count": 19,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6u0"
+    },
+    "bx-6u1": {
+      "file": "bx-6u1.csv",
+      "spec_count": 17,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6u1"
+    },
+    "bx-6u3": {
+      "file": "bx-6u3.csv",
+      "spec_count": 20,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6u3"
+    },
+    "bx-6ut-0812": {
+      "file": "bx-6ut-0812.csv",
+      "spec_count": 21,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6ut-0812"
+    },
+    "bx-6w-wifi": {
+      "file": "bx-6w-wifi.csv",
+      "spec_count": 21,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6w-wifi"
+    },
+    "bx-6w0": {
+      "file": "bx-6w0.csv",
+      "spec_count": 19,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6w0"
+    },
+    "bx-6w1": {
+      "file": "bx-6w1.csv",
+      "spec_count": 21,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6w1"
+    },
+    "bx-6w3-wifi": {
+      "file": "bx-6w3-wifi.csv",
+      "spec_count": 22,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6w3-wifi"
+    },
+    "bx-6wt-0812-wifi": {
+      "file": "bx-6wt-0812-wifi.csv",
+      "spec_count": 18,
+      "categories": [
+        "Контроллеры BX-6x"
+      ],
+      "url": "http://onbon.ru/product/controllers-bx6/bx-6wt-0812-wifi"
+    },
+    "bx-dc": {
+      "file": "bx-dc.csv",
+      "spec_count": 16,
+      "categories": [
+        "Аксессуары"
+      ],
+      "url": "http://onbon.ru/product/accessories/bx-dc"
+    },
+    "bx-mfyq-multifunciton-card": {
+      "file": "bx-mfyq-multifunciton-card.csv",
+      "spec_count": 2,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-mfyq-multifunciton-card"
+    },
+    "bx-rf": {
+      "file": "bx-rf.csv",
+      "spec_count": 1,
+      "categories": [
+        "Сетевые модули"
+      ],
+      "url": "http://onbon.ru/product/network-modules/bx-rf"
+    },
+    "bx-rf100s": {
+      "file": "bx-rf100s.csv",
+      "spec_count": 2,
+      "categories": [
+        "Сетевые модули"
+      ],
+      "url": "http://onbon.ru/product/network-modules/bx-rf100s"
+    },
+    "bx-v-receiving-card": {
+      "file": "bx-v-receiving-card.csv",
+      "spec_count": 17,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-v-receiving-card"
+    },
+    "bx-v75-receiving-card": {
+      "file": "bx-v75-receiving-card.csv",
+      "spec_count": 23,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-v75-receiving-card"
+    },
+    "bx-v75l-receiving-card": {
+      "file": "bx-v75l-receiving-card.csv",
+      "spec_count": 23,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-v75l-receiving-card"
+    },
+    "bx-vh-external-sending-box": {
+      "file": "bx-vh-external-sending-box.csv",
+      "spec_count": 23,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/bx-vh-external-sending-box"
+    },
+    "bx-vhe-external-sending-box-kopiya": {
+      "file": "bx-vhe-external-sending-box-kopiya.csv",
+      "spec_count": 30,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/bx-vhe-external-sending-box-kopiya"
+    },
+    "bx-vmf": {
+      "file": "bx-vmf.csv",
+      "spec_count": 4,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/bx-vmf"
+    },
+    "bx-vs-sending-card": {
+      "file": "bx-vs-sending-card.csv",
+      "spec_count": 29,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/bx-vs-sending-card"
+    },
+    "bx-vse-external-sending-box": {
+      "file": "bx-vse-external-sending-box.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/bx-vse-external-sending-box"
+    },
+    "bx-wifi": {
+      "file": "bx-wifi.csv",
+      "spec_count": 2,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/bx-wifi"
+    },
+    "bx-y04": {
+      "file": "bx-y04.csv",
+      "spec_count": 28,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-y04"
+    },
+    "bx-y08": {
+      "file": "bx-y08.csv",
+      "spec_count": 27,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-y08"
+    },
+    "bx-y2": {
+      "file": "bx-y2.csv",
+      "spec_count": 29,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-y2"
+    },
+    "bx-y2l": {
+      "file": "bx-y2l.csv",
+      "spec_count": 26,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-y2l"
+    },
+    "bx-y3": {
+      "file": "bx-y3.csv",
+      "spec_count": 28,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-y3"
+    },
+    "bx-yq1": {
+      "file": "bx-yq1.csv",
+      "spec_count": 24,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq1"
+    },
+    "bx-yq1-75": {
+      "file": "bx-yq1-75.csv",
+      "spec_count": 25,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq1-75"
+    },
+    "bx-yq1g-75": {
+      "file": "bx-yq1g-75.csv",
+      "spec_count": 22,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq1g-75"
+    },
+    "bx-yq1g-75-wifi": {
+      "file": "bx-yq1g-75-wifi.csv",
+      "spec_count": 23,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq1g-75-wifi"
+    },
+    "bx-yq2a": {
+      "file": "bx-yq2a.csv",
+      "spec_count": 26,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq2a"
+    },
+    "bx-yq2ae": {
+      "file": "bx-yq2ae.csv",
+      "spec_count": 27,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq2ae"
+    },
+    "bx-yq3a": {
+      "file": "bx-yq3a.csv",
+      "spec_count": 25,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq3a"
+    },
+    "bx-yq3ae": {
+      "file": "bx-yq3ae.csv",
+      "spec_count": 28,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq3ae"
+    },
+    "bx-yq4": {
+      "file": "bx-yq4.csv",
+      "spec_count": 27,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq4"
+    },
+    "bx-yq5e": {
+      "file": "bx-yq5e.csv",
+      "spec_count": 31,
+      "categories": [
+        "Контроллеры YQ-серии"
+      ],
+      "url": "http://onbon.ru/product/controllers-yq/bx-yq5e"
+    },
+    "hub-adapter": {
+      "file": "hub-adapter.csv",
+      "spec_count": 1,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub-adapter"
+    },
+    "hub-t08-bx-v": {
+      "file": "hub-t08-bx-v.csv",
+      "spec_count": 3,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub-t08-bx-v"
+    },
+    "hub-t08a-bx-5q": {
+      "file": "hub-t08a-bx-5q.csv",
+      "spec_count": 1,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/hub-t08a-bx-5q"
+    },
+    "hub-t74a-bx-5q": {
+      "file": "hub-t74a-bx-5q.csv",
+      "spec_count": 1,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/hub-t74a-bx-5q"
+    },
+    "hub-t74a-bx-vyq": {
+      "file": "hub-t74a-bx-vyq.csv",
+      "spec_count": 1,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub-t74a-bx-vyq"
+    },
+    "hub-t75a-bx-5q": {
+      "file": "hub-t75a-bx-5q.csv",
+      "spec_count": 2,
+      "categories": [
+        "Приёмные карты"
+      ],
+      "url": "http://onbon.ru/product/receiving-cards/hub-t75a-bx-5q"
+    },
+    "hub-t75a-bx-vyq": {
+      "file": "hub-t75a-bx-vyq.csv",
+      "spec_count": 3,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub-t75a-bx-vyq"
+    },
+    "hub-t90-bx-vyq": {
+      "file": "hub-t90-bx-vyq.csv",
+      "spec_count": 3,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub-t90-bx-vyq"
+    },
+    "hub128-t12": {
+      "file": "hub128-t12.csv",
+      "spec_count": 2,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub128-t12"
+    },
+    "hub128-t8": {
+      "file": "hub128-t8.csv",
+      "spec_count": 1,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub128-t8"
+    },
+    "hub256-t12": {
+      "file": "hub256-t12.csv",
+      "spec_count": 1,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub256-t12"
+    },
+    "hub256-t8": {
+      "file": "hub256-t8.csv",
+      "spec_count": 2,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub256-t8"
+    },
+    "hub512-t08bx-6x": {
+      "file": "hub512-t08bx-6x.csv",
+      "spec_count": 3,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub512-t08bx-6x"
+    },
+    "hub512-t12bx-6x": {
+      "file": "hub512-t12bx-6x.csv",
+      "spec_count": 2,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/hub512-t12bx-6x"
+    },
+    "infrared-remote-controller": {
+      "file": "infrared-remote-controller.csv",
+      "spec_count": 1,
+      "categories": [
+        "Датчики и пульты"
+      ],
+      "url": "http://onbon.ru/product/sensors/infrared-remote-controller"
+    },
+    "infrared-remote-controller-yq": {
+      "file": "infrared-remote-controller-yq.csv",
+      "spec_count": 2,
+      "categories": [
+        "Датчики и пульты"
+      ],
+      "url": "http://onbon.ru/product/sensors/infrared-remote-controller-yq"
+    },
+    "ovp-l1": {
+      "file": "ovp-l1.csv",
+      "spec_count": 20,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-l1"
+    },
+    "ovp-m1": {
+      "file": "ovp-m1.csv",
+      "spec_count": 24,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-m1"
+    },
+    "ovp-m1s2": {
+      "file": "ovp-m1s2.csv",
+      "spec_count": 24,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-m1s2"
+    },
+    "ovp-m1s4": {
+      "file": "ovp-m1s4.csv",
+      "spec_count": 23,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-m1s4"
+    },
+    "ovp-m2": {
+      "file": "ovp-m2.csv",
+      "spec_count": 21,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-m2"
+    },
+    "ovp-m3": {
+      "file": "ovp-m3.csv",
+      "spec_count": 24,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/ovp-m3"
+    },
+    "sdi-modul-dlya-ovp": {
+      "file": "sdi-modul-dlya-ovp.csv",
+      "spec_count": 2,
+      "categories": [
+        "Видеопроцессоры"
+      ],
+      "url": "http://onbon.ru/product/videoprocessory/sdi-modul-dlya-ovp"
+    },
+    "temperatur-sensor": {
+      "file": "temperatur-sensor.csv",
+      "spec_count": 9,
+      "categories": [
+        "Датчики и пульты"
+      ],
+      "url": "http://onbon.ru/product/sensors/temperatur-sensor"
+    },
+    "temperaturhumidity-sensor": {
+      "file": "temperaturhumidity-sensor.csv",
+      "spec_count": 9,
+      "categories": [
+        "Датчики и пульты"
+      ],
+      "url": "http://onbon.ru/product/sensors/temperaturhumidity-sensor"
+    },
+    "usb-extension-cable": {
+      "file": "usb-extension-cable.csv",
+      "spec_count": 2,
+      "categories": [
+        "Питание и кабели"
+      ],
+      "url": "http://onbon.ru/product/power-cables/usb-extension-cable"
+    },
+    "usbrs232-conversion-line": {
+      "file": "usbrs232-conversion-line.csv",
+      "spec_count": 4,
+      "categories": [
+        "HUB-платы и адаптеры"
+      ],
+      "url": "http://onbon.ru/product/hub-adapters/usbrs232-conversion-line"
+    },
+    "x-u2": {
+      "file": "x-u2.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u2"
+    },
+    "x-u2l": {
+      "file": "x-u2l.csv",
+      "spec_count": 19,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u2l"
+    },
+    "x-u3": {
+      "file": "x-u3.csv",
+      "spec_count": 15,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u3"
+    },
+    "x-u3l": {
+      "file": "x-u3l.csv",
+      "spec_count": 16,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u3l"
+    },
+    "x-u4": {
+      "file": "x-u4.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u4"
+    },
+    "x-u4l": {
+      "file": "x-u4l.csv",
+      "spec_count": 16,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-u4l"
+    },
+    "x-w2": {
+      "file": "x-w2.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w2"
+    },
+    "x-w2l": {
+      "file": "x-w2l.csv",
+      "spec_count": 19,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w2l"
+    },
+    "x-w3": {
+      "file": "x-w3.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w3"
+    },
+    "x-w3l": {
+      "file": "x-w3l.csv",
+      "spec_count": 19,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w3l"
+    },
+    "x-w4": {
+      "file": "x-w4.csv",
+      "spec_count": 19,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w4"
+    },
+    "x-w4l": {
+      "file": "x-w4l.csv",
+      "spec_count": 17,
+      "categories": [
+        "Передающие карты/боксы"
+      ],
+      "url": "http://onbon.ru/product/sending-cards/x-w4l"
+    }
+  }
+}

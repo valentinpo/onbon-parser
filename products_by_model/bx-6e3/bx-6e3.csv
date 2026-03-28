@@ -1,0 +1,20 @@
+﻿sku,slug,model,category,parameter,value,unit,notes,url,updated
+КОН-BX_6E3-456,bx-6e3,BX 6E3,Контроллеры BX-6x,Количество рядов и тип хаба:,2 разъема 50PIN,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-456,bx-6e3,BX 6E3,Контроллеры BX-6x,Количество рядов и тип хаба:,4 разъема T12; 2 разъема T08,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-433,bx-6e3,BX 6E3,Контроллеры BX-6x,Максимальная мощность:,"≤ 0,6 Вт",W,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-433,bx-6e3,BX 6E3,Контроллеры BX-6x,Максимальная мощность:,≤2 Вт,W,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-224,bx-6e3,BX 6E3,Контроллеры BX-6x,Напряжение:,5,,3.5V~6V,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-224,bx-6e3,BX 6E3,Контроллеры BX-6x,Напряжение:,5V,V,4.5V~6V,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-232,bx-6e3,BX 6E3,Контроллеры BX-6x,Память:,2 Mb,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-920,bx-6e3,BX 6E3,Контроллеры BX-6x,Площадь управления:,Один цвет: 8192*512 4096*1024; Два цвета: 8192*256 4096*512; Три цвета: 8192*160 4096*320,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-920,bx-6e3,BX 6E3,Контроллеры BX-6x,Площадь управления:,Один цвет 1024*16 512*32; Два цвета 512*16 256*32,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-920,bx-6e3,BX 6E3,Контроллеры BX-6x,Площадь управления:,Один цвет 512*256,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-920,bx-6e3,BX 6E3,Контроллеры BX-6x,Площадь управления:,Один цвет 2048*16 1024*32 672*48 512*64; Два цвета 1024*16 512*32 336*48 256*64,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-920,bx-6e3,BX 6E3,Контроллеры BX-6x,Площадь управления:,Один цвет 2048*64 1024*128 672*192 512*256; Два цвета 1024*64 512*128 336*192 256*256,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-558,bx-6e3,BX 6E3,Контроллеры BX-6x,Поддержка датчиков:,"Температура, Температура и влажность, ИК, Датчик яркости",,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-558,bx-6e3,BX 6E3,Контроллеры BX-6x,Поддержка датчиков:,"Температура, Температура и влажность, ИК",,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-942,bx-6e3,BX 6E3,Контроллеры BX-6x,Режим соединения:,"Ethernet, RS232, USB, WiFi, RF, 3GPRS, 3GW(CDMA), 4G",W,CDMA,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-942,bx-6e3,BX 6E3,Контроллеры BX-6x,Режим соединения:,"Ethernet, USB",,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-942,bx-6e3,BX 6E3,Контроллеры BX-6x,Режим соединения:,USB,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-495,bx-6e3,BX 6E3,Контроллеры BX-6x,Тип поддерживаемых модулей:,"все монохромные, двуцветные, трехцветные",,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31
+КОН-BX_6E3-495,bx-6e3,BX 6E3,Контроллеры BX-6x,Тип поддерживаемых модулей:,Все монохромные и двухцветные,,,http://onbon.ru/product/controllers-bx6/bx-6e3,2026-03-28 15:53:31

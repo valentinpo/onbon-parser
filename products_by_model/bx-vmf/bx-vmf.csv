@@ -1,0 +1,5 @@
+﻿sku,slug,model,category,parameter,value,unit,notes,url,updated
+ПРИ-BX_VMF-224,bx-vmf,BX VMF,Приёмные карты,Напряжение:,5V,V,,http://onbon.ru/product/receiving-cards/bx-vmf,2026-03-28 15:53:40
+ПРИ-BX_VMF-224,bx-vmf,BX VMF,Приёмные карты,Напряжение:,5V,V,3.5V~6V,http://onbon.ru/product/receiving-cards/bx-vmf,2026-03-28 15:53:40
+ПРИ-BX_VMF-558,bx-vmf,BX VMF,Приёмные карты,Поддержка датчиков:,"Температура, Температура и влажность, Датчик яркости",,,http://onbon.ru/product/receiving-cards/bx-vmf,2026-03-28 15:53:40
+ПРИ-BX_VMF-613,bx-vmf,BX VMF,Приёмные карты,Сила тока:,2А,,,http://onbon.ru/product/receiving-cards/bx-vmf,2026-03-28 15:53:40
