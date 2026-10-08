@@ -1,0 +1,9 @@
+# Сгенерированные данные — не храним в git
+onbon_catalog.csv
+onbon_parser.log
+
+# Кэш Python
+__pycache__/
+*.pyc
+.venv/
+venv/
